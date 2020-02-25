@@ -119,7 +119,7 @@ Consultant for boutique cake bakery that sell 2 types of cakes
 #### 3. Define Objective Function:
           model += 20 * A + 40 * B
           
-          Dene Constraints
+          Define Constraints
 #### 4. Defining Constraints:
           model += 0.5 * A + 1 * B <= 30
           model += 1 * A + 2.5 * B <= 60
