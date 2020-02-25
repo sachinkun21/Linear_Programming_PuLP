@@ -158,8 +158,8 @@ Consultant for boutique cake bakery that sell 2 types of cakes
           
           
 ### Summary         
-- PuLP is a Python LP / IP modeler:
-Reviewed 5 Steps of PuLP modeling process
+- PuLP is a Python LP / IP modeler used to solve Optimization Problems.
+- Reviewed 5 Steps of PuLP modeling process
 1. Initialize Model
 2. Define Decision Variables
 3. Define the Objective Function
