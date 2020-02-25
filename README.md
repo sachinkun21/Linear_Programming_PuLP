@@ -133,7 +133,7 @@ Consultant for boutique cake bakery that sell 2 types of cakes
           
           
           
-- PuLP example – resource scheduling
+### FULL CODE: PuLP example – resource scheduling
           
           from pulp import *
           # Initialize Class
