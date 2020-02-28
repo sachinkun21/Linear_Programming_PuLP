@@ -1,6 +1,6 @@
 ### Linear Programing (LP) is a Powerful Modeling Tool for Optimization:
 
-#### Optimization method using a mathematical model whose requirements are linear relationships.
+### Optimization method using a mathematical model whose requirements are linear relationships.
 #### There are 3 BasicComponents in LP:
 - Decision Variables - ***what you can control***
 - Objective Function - ***math expression that uses variables to express goal***
