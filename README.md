@@ -1,4 +1,4 @@
-### Linear Programing (LP) is a Powerful Modeling Tool for Optimization:
+## Linear Programing (LP) is a Powerful Modeling Tool for Optimization:
 
 #### Optimization method using a mathematical model whose requirements are linear relationships.
 #### There are 3 BasicComponents in LP:
