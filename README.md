@@ -165,4 +165,5 @@ Consultant for boutique cake bakery that sell 2 types of cakes
 3. Define the Objective Function
 4. Define the Constraints
 5. Solve Model
-Completed Resource Scheduling Example
+
+- Completed Resource Scheduling Example
